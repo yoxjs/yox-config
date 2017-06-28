@@ -1,0 +1,2 @@
+# yox-config
+Framework configuration
