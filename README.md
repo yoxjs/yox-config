@@ -1,2 +1,3 @@
 # yox-config
-Framework configuration
+
+Configuration for Yox.js

@@ -1,0 +1,30 @@
+{
+  "name": "yox-config",
+  "version": "0.0.1",
+  "description": "Configuration for Yox.js",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-register": "^6.24.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoxjs/yox-config.git"
+  },
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "musicode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoxjs/yox-config/issues"
+  },
+  "homepage": "https://github.com/yoxjs/yox-config#readme"
+}
