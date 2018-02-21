@@ -21,6 +21,7 @@ export const DIRECTIVE_EVENT = 'event'
 export const DIRECTIVE_BINDING = 'binding'
 
 export const KEYWORD_REF = 'ref'
+export const KEYWORD_SLOT = 'slot'
 export const KEYWORD_UNIQUE = 'key'
 
 export const HOOK_BEFORE_CREATE = 'beforeCreate'
