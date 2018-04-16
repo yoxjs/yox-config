@@ -11,6 +11,8 @@ export const SYNTAX_COMMENT = /^!\s/
 export const SPECIAL_EVENT = '$event'
 export const SPECIAL_KEYPATH = '$keypath'
 
+export const SLOT_DATA_PREFIX = '$slot_'
+
 export const DIRECTIVE_CUSTOM_PREFIX = 'o-'
 export const DIRECTIVE_EVENT_PREFIX = 'on-'
 
