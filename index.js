@@ -9,6 +9,7 @@ export const SYNTAX_SPREAD = '...'
 export const SYNTAX_COMMENT = /^!\s/
 
 export const SPECIAL_EVENT = '$event'
+export const SPECIAL_PARENT = '$parent'
 export const SPECIAL_KEYPATH = '$keypath'
 
 export const SLOT_DATA_PREFIX = '$slot_'
