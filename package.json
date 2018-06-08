@@ -1,6 +1,6 @@
 {
   "name": "yox-config",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Configuration for Yox.js",
   "main": "index.js",
   "directories": {
