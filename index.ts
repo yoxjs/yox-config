@@ -17,6 +17,10 @@ export const SLOT_DATA_PREFIX = '$slot_'
 export const TAG_TEXT = '#'
 export const TAG_COMMENT = '!'
 
+export const HINT_STRING = 1
+export const HINT_NUMBER = 2
+export const HINT_BOOLEAN = 3
+
 export const DIRECTIVE_CUSTOM_PREFIX = 'o-'
 export const DIRECTIVE_EVENT_PREFIX = 'on-'
 
