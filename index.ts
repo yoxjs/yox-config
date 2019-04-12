@@ -14,13 +14,16 @@ export const SPECIAL_KEYPATH = '$keypath'
 
 export const SLOT_DATA_PREFIX = '$slot_'
 
+export const TAG_TEXT = '#'
+export const TAG_COMMENT = '!'
+
 export const DIRECTIVE_CUSTOM_PREFIX = 'o-'
 export const DIRECTIVE_EVENT_PREFIX = 'on-'
 
 export const DIRECTIVE_LAZY = 'lazy'
 export const DIRECTIVE_MODEL = 'model'
 export const DIRECTIVE_EVENT = 'event'
-export const DIRECTIVE_BINDING = 'binding'
+export const DIRECTIVE_BIND = 'bind'
 
 export const HOOK_BEFORE_CREATE = 'beforeCreate'
 export const HOOK_AFTER_CREATE = 'afterCreate'
