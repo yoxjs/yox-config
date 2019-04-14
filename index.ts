@@ -22,8 +22,8 @@ export const HINT_NUMBER = 2
 export const HINT_BOOLEAN = 3
 
 export const DIRECTIVE_CUSTOM_PREFIX = 'o-'
-export const DIRECTIVE_EVENT_PREFIX = 'on-'
 
+export const DIRECTIVE_ON = 'on'
 export const DIRECTIVE_LAZY = 'lazy'
 export const DIRECTIVE_MODEL = 'model'
 export const DIRECTIVE_EVENT = 'event'

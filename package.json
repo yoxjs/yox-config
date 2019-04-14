@@ -1,8 +1,8 @@
 {
   "name": "yox-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Configuration for Yox.js",
-  "main": "index.js",
+  "main": "index.ts",
   "directories": {
     "example": "example",
     "test": "test"
