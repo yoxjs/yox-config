@@ -8,8 +8,6 @@ export const SYNTAX_IMPORT = '>'
 export const SYNTAX_SPREAD = '...'
 export const SYNTAX_COMMENT = /^!\s/
 
-export const SPECIAL_EVENT = '$event'
-export const SPECIAL_DATA = '$data'
 export const SPECIAL_KEYPATH = '$keypath'
 
 export const SLOT_DATA_PREFIX = '$slot_'
@@ -27,7 +25,6 @@ export const DIRECTIVE_ON = 'on'
 export const DIRECTIVE_LAZY = 'lazy'
 export const DIRECTIVE_MODEL = 'model'
 export const DIRECTIVE_EVENT = 'event'
-export const DIRECTIVE_BIND = 'bind'
 
 export const HOOK_BEFORE_CREATE = 'beforeCreate'
 export const HOOK_AFTER_CREATE = 'afterCreate'

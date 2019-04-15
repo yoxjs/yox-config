@@ -1,17 +1,11 @@
 {
   "name": "yox-config",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Configuration for Yox.js",
   "main": "index.ts",
   "directories": {
     "example": "example",
     "test": "test"
-  },
-  "devDependencies": {
-    "babel-core": "^6.24.0",
-    "babel-polyfill": "^6.23.0",
-    "babel-preset-es2015": "^6.24.0",
-    "babel-register": "^6.24.0"
   },
   "repository": {
     "type": "git",
