@@ -1,4 +1,3 @@
-
 export const SYNTAX_IF = '#if'
 export const SYNTAX_ELSE = 'else'
 export const SYNTAX_ELSE_IF = 'else if'
@@ -7,8 +6,6 @@ export const SYNTAX_PARTIAL = '#partial'
 export const SYNTAX_IMPORT = '>'
 export const SYNTAX_SPREAD = '...'
 export const SYNTAX_COMMENT = /^!\s/
-
-export const SPECIAL_KEYPATH = '$keypath'
 
 export const SLOT_DATA_PREFIX = '$slot_'
 

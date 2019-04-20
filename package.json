@@ -1,12 +1,9 @@
 {
   "name": "yox-config",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Configuration for Yox.js",
-  "main": "index.ts",
-  "directories": {
-    "example": "example",
-    "test": "test"
-  },
+  "main": "index.js",
+  "directories": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yoxjs/yox-config.git"
