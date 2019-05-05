@@ -1,16 +1,13 @@
 {
   "name": "yox-config",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Configuration for Yox.js",
-  "main": "index.js",
   "directories": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yoxjs/yox-config.git"
   },
-  "scripts": {
-
-  },
+  "scripts": {},
   "keywords": [],
   "author": "musicode",
   "license": "MIT",

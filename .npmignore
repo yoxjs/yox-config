@@ -1,5 +1,6 @@
-test
 node_modules
-.babelrc
+dist
 .gitignore
 .npmignore
+package-lock.json
+yarn.lock
