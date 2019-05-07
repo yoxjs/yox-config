@@ -8,6 +8,7 @@ export const SYNTAX_SPREAD = '...'
 export const SYNTAX_COMMENT = /^!\s/
 
 export const SLOT_DATA_PREFIX = '$slot_'
+export const SLOT_NAME_DEFAULT = 'children'
 
 export const HINT_STRING = 1
 export const HINT_NUMBER = 2
