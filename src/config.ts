@@ -29,3 +29,8 @@ export const HOOK_BEFORE_UPDATE = 'beforeUpdate'
 export const HOOK_AFTER_UPDATE = 'afterUpdate'
 export const HOOK_BEFORE_DESTROY = 'beforeDestroy'
 export const HOOK_AFTER_DESTROY = 'afterDestroy'
+
+export const HOOK_BEFORE_CHILD_CREATE = 'beforeChildCreate'
+export const HOOK_AFTER_CHILD_CREATE = 'afterChildCreate'
+export const HOOK_BEFORE_CHILD_DESTROY = 'beforeChildDestroy'
+export const HOOK_AFTER_CHILD_DESTROY = 'afterChildDestroy'
