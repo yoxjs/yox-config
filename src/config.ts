@@ -29,3 +29,11 @@ export const HOOK_BEFORE_UPDATE = 'beforeUpdate'
 export const HOOK_AFTER_UPDATE = 'afterUpdate'
 export const HOOK_BEFORE_DESTROY = 'beforeDestroy'
 export const HOOK_AFTER_DESTROY = 'afterDestroy'
+
+// 路由钩子
+export const HOOK_BEFORE_ROUTE_ENTER = 'beforeRouteEnter'
+export const HOOK_AFTER_ROUTE_ENTER = 'afterRouteEnter'
+export const HOOK_BEFORE_ROUTE_UPDATE = 'beforeRouteUpdate'
+export const HOOK_AFTER_ROUTE_UPDATE = 'afterRouteUpdate'
+export const HOOK_BEFORE_ROUTE_LEAVE = 'beforeRouteLeave'
+export const HOOK_AFTER_ROUTE_LEAVE = 'afterRouteLeave'
