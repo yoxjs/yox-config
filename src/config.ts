@@ -21,6 +21,8 @@ export const DIRECTIVE_EVENT = 'event'
 export const DIRECTIVE_BINDING = 'binding'
 export const DIRECTIVE_CUSTOM = 'o'
 
+export const MODEL_PROP_DEFAULT = 'value'
+
 export const HOOK_BEFORE_CREATE = 'beforeCreate'
 export const HOOK_AFTER_CREATE = 'afterCreate'
 export const HOOK_BEFORE_MOUNT = 'beforeMount'
