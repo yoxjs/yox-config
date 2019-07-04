@@ -24,6 +24,7 @@ export const DIRECTIVE_CUSTOM = 'o'
 export const MODEL_PROP_DEFAULT = 'value'
 
 export const NAMESPACE_HOOK = '.hook'
+export const NAMESPACE_NATIVE = '.native'
 
 export const HOOK_BEFORE_CREATE = 'beforeCreate'
 export const HOOK_AFTER_CREATE = 'afterCreate'
