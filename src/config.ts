@@ -18,9 +18,10 @@ export const DIRECTIVE_ON = 'on'
 export const DIRECTIVE_LAZY = 'lazy'
 export const DIRECTIVE_MODEL = 'model'
 export const DIRECTIVE_EVENT = 'event'
-export const DIRECTIVE_EVENT_MODIFER_NATIVE = 'native'
 export const DIRECTIVE_BINDING = 'binding'
 export const DIRECTIVE_CUSTOM = 'o'
+
+export const MODIFER_NATIVE = 'native'
 
 export const MODEL_PROP_DEFAULT = 'value'
 
