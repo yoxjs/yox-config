@@ -35,3 +35,5 @@ export const HOOK_BEFORE_UPDATE = 'beforeUpdate'
 export const HOOK_AFTER_UPDATE = 'afterUpdate'
 export const HOOK_BEFORE_DESTROY = 'beforeDestroy'
 export const HOOK_AFTER_DESTROY = 'afterDestroy'
+
+export const HOOK_BEFORE_PROPS_UPDATE = 'beforePropsUpdate'
