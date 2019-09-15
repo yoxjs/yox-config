@@ -5,7 +5,7 @@ export const SYNTAX_EACH = '#each'
 export const SYNTAX_PARTIAL = '#partial'
 export const SYNTAX_IMPORT = '>'
 export const SYNTAX_SPREAD = '...'
-export const SYNTAX_COMMENT = /^!\s/
+export const SYNTAX_COMMENT = /^!(?:\s|--)/
 
 export const SLOT_DATA_PREFIX = '$slot_'
 export const SLOT_NAME_DEFAULT = 'children'
