@@ -18,10 +18,16 @@ export const DIRECTIVE_ON = 'on'
 export const DIRECTIVE_LAZY = 'lazy'
 export const DIRECTIVE_MODEL = 'model'
 export const DIRECTIVE_EVENT = 'event'
-export const DIRECTIVE_BINDING = 'binding'
+export const DIRECTIVE_TRANSITION = 'transition'
 export const DIRECTIVE_CUSTOM = 'o'
 
 export const MODIFER_NATIVE = 'native'
+
+export const MAGIC_VAR_KEYPATH = '$keypath'
+export const MAGIC_VAR_LENGTH = '$length'
+export const MAGIC_VAR_EVENT = '$event'
+export const MAGIC_VAR_DATA = '$data'
+export const MAGIC_VAR_ITEM = '$item'
 
 export const MODEL_PROP_DEFAULT = 'value'
 
@@ -37,3 +43,11 @@ export const HOOK_BEFORE_DESTROY = 'beforeDestroy'
 export const HOOK_AFTER_DESTROY = 'afterDestroy'
 
 export const HOOK_BEFORE_PROPS_UPDATE = 'beforePropsUpdate'
+
+// 外部可配置的对象
+export const PUBLIC_CONFIG: Record<string, any> = {
+  leftDelimiter: '{',
+  rightDelimiter: '}',
+  uglifyCompiled: false,
+  minifyCompiled: false,
+}
