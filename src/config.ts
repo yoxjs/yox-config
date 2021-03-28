@@ -31,8 +31,6 @@ export const MAGIC_VAR_ITEM = '$item'
 
 export const MODEL_PROP_DEFAULT = 'value'
 
-export const NAMESPACE_HOOK = 'hook'
-
 export const HOOK_BEFORE_CREATE = 'beforeCreate'
 export const HOOK_AFTER_CREATE = 'afterCreate'
 export const HOOK_BEFORE_MOUNT = 'beforeMount'
@@ -43,11 +41,3 @@ export const HOOK_BEFORE_DESTROY = 'beforeDestroy'
 export const HOOK_AFTER_DESTROY = 'afterDestroy'
 
 export const HOOK_BEFORE_PROPS_UPDATE = 'beforePropsUpdate'
-
-// 外部可配置的对象
-export const PUBLIC_CONFIG: Record<string, any> = {
-  leftDelimiter: '{',
-  rightDelimiter: '}',
-  uglifyCompiled: false,
-  minifyCompiled: false,
-}
