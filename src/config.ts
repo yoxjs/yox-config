@@ -23,11 +23,11 @@ export const DIRECTIVE_CUSTOM = 'o'
 
 export const MODIFER_NATIVE = 'native'
 
+export const MAGIC_VAR_SCOPE = '$scope'
 export const MAGIC_VAR_KEYPATH = '$keypath'
 export const MAGIC_VAR_LENGTH = '$length'
 export const MAGIC_VAR_EVENT = '$event'
 export const MAGIC_VAR_DATA = '$data'
-export const MAGIC_VAR_ITEM = '$item'
 
 export const MODEL_PROP_DEFAULT = 'value'
 
