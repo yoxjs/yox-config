@@ -14,6 +14,11 @@ export const HINT_STRING = 1
 export const HINT_NUMBER = 2
 export const HINT_BOOLEAN = 3
 
+export const VNODE_TYPE_TEXT = 1
+export const VNODE_TYPE_COMMENT = 2
+export const VNODE_TYPE_ELEMENT = 3
+export const VNODE_TYPE_COMPONENT = 4
+
 export const DIRECTIVE_ON = 'on'
 export const DIRECTIVE_LAZY = 'lazy'
 export const DIRECTIVE_MODEL = 'model'
