@@ -7,6 +7,16 @@ export const SYNTAX_IMPORT = '>'
 export const SYNTAX_SPREAD = '...'
 export const SYNTAX_COMMENT = /^!(?:\s|--)/
 
+export const TAG_SLOT = 'slot'
+export const TAG_PORTAL = 'portal'
+export const TAG_TEMPLATE = 'template'
+export const TAG_FRAGMENT = 'fragment'
+
+export const ATTR_KEY = 'key'
+export const ATTR_REF = 'ref'
+export const ATTR_SLOT = 'slot'
+export const ATTR_NAME = 'name'
+
 export const SLOT_DATA_PREFIX = '$slot_'
 export const SLOT_NAME_DEFAULT = 'children'
 
@@ -19,6 +29,7 @@ export const VNODE_TYPE_COMMENT = 2
 export const VNODE_TYPE_ELEMENT = 3
 export const VNODE_TYPE_COMPONENT = 4
 export const VNODE_TYPE_FRAGMENT = 5
+export const VNODE_TYPE_PORTAL = 6
 
 export const DIRECTIVE_ON = 'on'
 export const DIRECTIVE_LAZY = 'lazy'
