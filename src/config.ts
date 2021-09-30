@@ -18,6 +18,7 @@ export const VNODE_TYPE_TEXT = 1
 export const VNODE_TYPE_COMMENT = 2
 export const VNODE_TYPE_ELEMENT = 3
 export const VNODE_TYPE_COMPONENT = 4
+export const VNODE_TYPE_FRAGMENT = 5
 
 export const DIRECTIVE_ON = 'on'
 export const DIRECTIVE_LAZY = 'lazy'
