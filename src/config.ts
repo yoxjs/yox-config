@@ -12,6 +12,7 @@ export const TAG_PORTAL = 'portal'
 export const TAG_TEMPLATE = 'template'
 export const TAG_FRAGMENT = 'fragment'
 
+export const ATTR_TO = 'to'
 export const ATTR_KEY = 'key'
 export const ATTR_REF = 'ref'
 export const ATTR_SLOT = 'slot'
