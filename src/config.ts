@@ -31,6 +31,7 @@ export const VNODE_TYPE_ELEMENT = 3
 export const VNODE_TYPE_COMPONENT = 4
 export const VNODE_TYPE_FRAGMENT = 5
 export const VNODE_TYPE_PORTAL = 6
+export const VNODE_TYPE_SLOT = 7
 
 export const DIRECTIVE_ON = 'on'
 export const DIRECTIVE_LAZY = 'lazy'
