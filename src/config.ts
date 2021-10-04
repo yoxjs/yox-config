@@ -9,8 +9,8 @@ export const SYNTAX_COMMENT = /^!(?:\s|--)/
 
 export const TAG_SLOT = 'slot'
 export const TAG_PORTAL = 'portal'
-export const TAG_TEMPLATE = 'template'
 export const TAG_FRAGMENT = 'fragment'
+export const TAG_TEMPLATE = 'template'
 
 export const ATTR_TO = 'to'
 export const ATTR_KEY = 'key'
