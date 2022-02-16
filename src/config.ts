@@ -21,10 +21,6 @@ export const ATTR_NAME = 'name'
 export const SLOT_DATA_PREFIX = '$slot_'
 export const SLOT_NAME_DEFAULT = 'children'
 
-export const HINT_STRING = 1
-export const HINT_NUMBER = 2
-export const HINT_BOOLEAN = 3
-
 export const VNODE_TYPE_TEXT = 1
 export const VNODE_TYPE_COMMENT = 2
 export const VNODE_TYPE_ELEMENT = 3
