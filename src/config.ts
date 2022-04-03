@@ -8,6 +8,7 @@ export const SYNTAX_SPREAD = '...'
 export const SYNTAX_COMMENT = /^!(?:\s|--)/
 
 export const TAG_SLOT = 'slot'
+export const TAG_VNODE = 'vnode'
 export const TAG_PORTAL = 'portal'
 export const TAG_FRAGMENT = 'fragment'
 export const TAG_TEMPLATE = 'template'
@@ -17,6 +18,7 @@ export const ATTR_KEY = 'key'
 export const ATTR_REF = 'ref'
 export const ATTR_SLOT = 'slot'
 export const ATTR_NAME = 'name'
+export const ATTR_VALUE = 'value'
 
 export const SLOT_DATA_PREFIX = '$slot_'
 export const SLOT_NAME_DEFAULT = 'children'
