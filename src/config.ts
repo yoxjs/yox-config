@@ -50,6 +50,8 @@ export const MODEL_PROP_DEFAULT = 'value'
 
 export const HOOK_BEFORE_CREATE = 'beforeCreate'
 export const HOOK_AFTER_CREATE = 'afterCreate'
+export const HOOK_BEFORE_RENDER = 'beforeRender'
+export const HOOK_AFTER_RENDER = 'afterRender'
 export const HOOK_BEFORE_MOUNT = 'beforeMount'
 export const HOOK_AFTER_MOUNT = 'afterMount'
 export const HOOK_BEFORE_UPDATE = 'beforeUpdate'
