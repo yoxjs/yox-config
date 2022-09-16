@@ -2,13 +2,11 @@ export const SYNTAX_IF = '#if'
 export const SYNTAX_ELSE = 'else'
 export const SYNTAX_ELSE_IF = 'else if'
 export const SYNTAX_EACH = '#each'
-export const SYNTAX_PARTIAL = '#partial'
 export const SYNTAX_IMPORT = '>'
 export const SYNTAX_SPREAD = '...'
 export const SYNTAX_COMMENT = /^!(?:\s|--)/
 
 export const TAG_SLOT = 'slot'
-export const TAG_VNODE = 'vnode'
 export const TAG_PORTAL = 'portal'
 export const TAG_FRAGMENT = 'fragment'
 export const TAG_TEMPLATE = 'template'
